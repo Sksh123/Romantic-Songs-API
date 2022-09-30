@@ -168,19 +168,8 @@
           "Payal Dev"
        ],
        "link":"https://www.youtube.com/watch?v=KVh4KtUSW3A"
-    },
-{
-       "id":20,
-       "name":"Saiyaara",
-       "lyrics":"https://lyrify.in/saiyaara-ek-tha-tiger-lyrics/",
-       "album":"Ek Tha Tiger",
-       "Duration":"4 min 11 sec",
-       "singer":[
-          "Tarannum Mallik",
-          "Mohit Chauhan"
-       ],
-       "link":"https://www.youtube.com/watch?v=XwmsxKJpCw4"
-    },
+    }
+
 
     
 ]   
